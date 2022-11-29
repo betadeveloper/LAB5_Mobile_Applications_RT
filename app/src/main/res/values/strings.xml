@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Fetch XML Data Asynchronously</string>
+    <string name="noData">Press Download To Retrieve USD Data from FloatRates</string>
+    <string name="btn_download">Download data</string>
+
+</resources>
